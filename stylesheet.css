@@ -1,0 +1,44 @@
+body {
+    width: 100%;
+    min-height: 100vh;
+    background: white;
+    font-family: 'Ubuntu',sans-serif;
+}
+
+.logo {
+    width: 50%;
+    max-width: 16rem;
+    margin: auto;
+    display: block;
+    padding-top: 4rem;
+}
+
+h1 {
+    margin: auto;
+    display: block;
+    width: 20rem;
+    text-align: center;
+    margin-top: 8rem;
+    color: #211357;
+    letter-spacing: .4px;
+}
+
+.bottom {
+    position: absolute;
+    bottom: 4rem;
+    width: 100vw;
+}
+
+a {
+    font-family: Ubuntu;
+    font-style: italic;
+    font-weight: 100;
+    bottom: 4rem;
+    margin: auto;
+    display: block;
+    letter-spacing: 1.2px;
+    width: auto;
+    text-align: center;
+    text-decoration: underline;
+    color: #211357;
+}
